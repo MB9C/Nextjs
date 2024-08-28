@@ -1,5 +1,5 @@
 
-name: next
+name: sample
 
 on:
   # Runs on pushes targeting the default branch
